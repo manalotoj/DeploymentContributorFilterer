@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileSqlClub.SqlPackageFilter", "SqlPackageFilter\AgileSqlClub.SqlPackageFilter.csproj", "{27B7311A-DD78-48D5-AA5C-BFFCC5CA5FA2}"
 EndProject
@@ -52,5 +52,8 @@ Global
 		{EF3074F5-045E-4728-98F4-594959FB1866} = {E8E3F44B-3BBD-4D51-BC83-303A037D7194}
 		{EF5D1D14-10CF-4F8F-B4A0-B81545721686} = {E8E3F44B-3BBD-4D51-BC83-303A037D7194}
 		{914B0C2F-D287-4ECB-8536-FEA75F6C7D6D} = {E8E3F44B-3BBD-4D51-BC83-303A037D7194}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84F61F8-F062-4A0E-BB47-8A7A8A729F7F}
 	EndGlobalSection
 EndGlobal
